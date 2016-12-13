@@ -1,0 +1,12 @@
+{
+  "name": "dom-event-emitter",
+  "version": "1.0.0",
+  "description": "Provide an EventEmitter class to extend from, using the native DOM API.",
+  "main": "src/event-emitter.js",
+  "keywords": [
+    "event",
+    "emitter",
+    "dom"
+  ],
+  "author": "Guillaume Charmetant <cguille.dev@gmail.com>"
+}
